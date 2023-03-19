@@ -1,0 +1,15 @@
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\bin\Debug\net6.0\SweeftProject.exe
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\bin\Debug\net6.0\SweeftProject.deps.json
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\bin\Debug\net6.0\SweeftProject.runtimeconfig.json
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\bin\Debug\net6.0\SweeftProject.dll
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\bin\Debug\net6.0\SweeftProject.pdb
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\SweeftProject.csproj.AssemblyReference.cache
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\SweeftProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\SweeftProject.AssemblyInfoInputs.cache
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\SweeftProject.AssemblyInfo.cs
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\SweeftProject.csproj.CoreCompileInputs.cache
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\SweeftProject.dll
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\refint\SweeftProject.dll
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\SweeftProject.pdb
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\SweeftProject.genruntimeconfig.cache
+C:\Users\tanda\source\repos\SweeftProject\SweeftProject\obj\Debug\net6.0\ref\SweeftProject.dll
